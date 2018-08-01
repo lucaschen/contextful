@@ -1,0 +1,15 @@
+{
+  "name": "contextful",
+  "version": "0.0.0-alpha",
+  "description": "A wrapper that enhances React's built-in Context API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkroolucas/contextful.git"
+  },
+  "author": "Lucas Chen",
+  "license": "MIT"
+}
